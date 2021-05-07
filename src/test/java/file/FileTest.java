@@ -1,10 +1,10 @@
-package com.fullteaching.backend.course;
+package file;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class CourseControllerTest {
+class FileTest {
 
 	@Test
 	void test() {
