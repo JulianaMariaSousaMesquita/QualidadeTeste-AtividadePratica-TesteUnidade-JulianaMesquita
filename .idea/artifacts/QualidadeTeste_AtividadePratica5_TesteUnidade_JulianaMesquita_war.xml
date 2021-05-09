@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QualidadeTeste-AtividadePratica5-TesteUnidade-JulianaMesquita:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>QualidadeTeste-AtividadePratica5-TesteUnidade-JulianaMesquita</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="full-teaching-0.6-SNAPSHOT.war">
+      <element id="artifact" artifact-name="QualidadeTeste-AtividadePratica5-TesteUnidade-JulianaMesquita:war exploded" />
+    </root>
+  </artifact>
+</component>
